@@ -1,0 +1,1 @@
+This is a simple Chrome extension that enables opening notebooks hosted on a github repo directly on colab.
